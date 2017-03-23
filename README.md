@@ -6,6 +6,7 @@ An Admin Template using Angular2 and BootStrap
 
  ## To Do List
  -  ~~setup project with Angualar Seed~~
+ - setup project to use webpack -- currently working
  - Create Home Page
  - Define Sections to Include in the Admin template
  - Add Design for the Admin DashBoard
